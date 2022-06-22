@@ -1,0 +1,12 @@
+.container{
+    background-color: pink;
+    width: 400px;
+    height: 250px;
+    margin-left: 500px;
+}
+.GrpCtn{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
